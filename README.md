@@ -14,10 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 <h1>Live Demo</h1>
-
-Search Album with KKbox 
+simple shopping cart
 https://jungshianwu.github.io/shoppingcart-react/build/index.html
 
 <img src="https://github.com/JungShianWU/shoppingcart-react/blob/master/shoppingcartDemo.png"/>
 
-KKbox API：https://docs-zhtw.kkbox.codes/docs
