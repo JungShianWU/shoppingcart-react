@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "img": "https://p2.bahamut.com.tw/WIKI/38/00044338.GIF",
+        "title": "保護罩",
+        "desc": "暫時施法者的防禦力-2，但是效果不累積。",
+        "price": 200,
+        "discount": true
+    },
+    {
+        "id": 2,
+        "img": "https://p2.bahamut.com.tw/WIKI/43/00044343.GIF",
+        "title": "日光術",
+        "desc": "持續期間製造光源照亮自己的周圍。",
+        "price": 300
+    },
+    {
+        "id": 3,
+        "img": "https://p2.bahamut.com.tw/WIKI/39/00044339.GIF",
+        "title": "光箭",
+        "desc": "壓縮射出的魔法能量，讓對方受到些許的傷害。",
+        "price": 400
+    },
+    {
+        "id": 4,
+        "img": "https://p2.bahamut.com.tw/WIKI/42/00044342.GIF",
+        "title": "指定傳送",
+        "desc": "隨機在相同地圖上移動",
+        "price": 500,
+        "discount": true
+    },
+    {
+        "id": 5,
+        "img": "https://p2.bahamut.com.tw/WIKI/53/00044353.GIF",
+        "title": "解毒術",
+        "desc": "解毒",
+        "price": 300
+    },
+    {
+        "id": 6,
+        "img": "https://p2.bahamut.com.tw/WIKI/55/00044355.GIF",
+        "title": "中級治癒術",
+        "desc": "能回復目標較多的體力",
+        "price": 100
+    },
+    {
+        "id": 7,
+        "img": "https://p2.bahamut.com.tw/WIKI/93/00309993.JPG",
+        "title": "強力加速術",
+        "desc": "持續時間內能將增加1.5倍的速度",
+        "price": 50,
+        "discount": true
+    },
+    {
+        "id": 8,
+        "img": "https://p2.bahamut.com.tw/WIKI/25/00310025.JPG",
+        "title": "返生術",
+        "desc": "讓生命......返生",
+        "price": 400
+    },
+    {
+        "id": 9,
+        "img": "https://p2.bahamut.com.tw/WIKI/33/00310033.JPG",
+        "title": "流星雨",
+        "desc": "從天空召喚火花的隕石",
+        "price": 600
+    },
+    {
+        "id": 10,
+        "img": "https://p2.bahamut.com.tw/WIKI/21/00310021.JPG",
+        "title": "高級治癒術",
+        "desc": "讓生命能回復大量的體力",
+        "price": 800
+    },
+    {
+        "id": 11,
+        "img": "https://p2.bahamut.com.tw/WIKI/24/00310024.JPG",
+        "title": "隱身術",
+        "desc": "隱身",
+        "price": 50,
+        "discount": true
+    }
+]
