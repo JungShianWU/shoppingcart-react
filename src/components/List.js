@@ -1,7 +1,6 @@
 import React from 'react';
 import { Container, Button, Row, Col, Card, CardImg, CardBlock, CardTitle, CardSubtitle, CardText, Badge, Modal, ModalHeader, ModalBody, ModalFooter, Table, Alert } from 'reactstrap';
 import productDB from './productDB.json';
-import ContainerBar from './ContainerBar.js';
 
 
 
@@ -53,7 +52,6 @@ class List extends React.Component {
     deleteCartItem = (index) => {
         const cart = this.state.cart;
         cart.splice(index, 1);
-
         this.setState({
             cart
         });
@@ -73,6 +71,7 @@ class List extends React.Component {
                                 <th>#</th>
                                 <th>品項</th>
                                 <th>價格</th>
+                                <th>刪除</th>
                             </tr>
                         </thead>
                         <tbody>
