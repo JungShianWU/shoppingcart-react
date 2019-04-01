@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+<h1>Live Demo</h1>
+simple shopping cart
+https://jungshianwu.github.io/shoppingcart-react/
+
+<img src="https://github.com/JungShianWU/shoppingcart-react/blob/master/shoppingcartDemo.png"/>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,11 +22,3 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-<h1>Live Demo</h1>
-
-Search Album with KKbox 
-https://jungshianwu.github.io/shoppingcart-react/build/index.html
-
-<img src="https://github.com/JungShianWU/shoppingcart-react/blob/master/shoppingcartDemo.png"/>
-
-KKbox API：https://docs-zhtw.kkbox.codes/docs
